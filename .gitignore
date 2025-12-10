@@ -1,0 +1,17 @@
+# Ignore python cache
+__pycache__/
+*.pyc
+
+# Ignore secrets
+.env
+.DS_Store
+
+# Ignore large databases and models
+*.db
+*.faiss
+*.pkl
+data/
+
+# Ignore generated chunks and embeddings
+embeddings/chunks/
+*.npy
