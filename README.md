@@ -18,6 +18,7 @@
 * **Automated Evaluation:**
     * Built-in scripts to test Intelligence (QA), Speed (Caching), and Safety.
 
+```
 ## 📂 Project Structure
 
 ├── run.py                  # Main execution script (Runs Eval, Security & Speed tests)
@@ -64,4 +65,4 @@ Running the Evaluation Pipeline
   
   Test the Safety filters.
 
-
+```
